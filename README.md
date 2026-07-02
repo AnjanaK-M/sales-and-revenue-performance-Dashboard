@@ -25,7 +25,7 @@ Power BI Features Used
 
 How to Use This Project
 1. Clone or download the repository.
-2. Open `Sales And Revenue Performance.pbix` using **Power BI Desktop**.
+2. Open `Sales And Revenue Performance Dashboard.pbix` using **Power BI Desktop**.
 3. Ensure the underlying dataset is placed in the same folder or relink the data source if needed.
 4. Interact with the dashboard to explore insights.
 
